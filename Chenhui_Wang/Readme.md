@@ -10,3 +10,7 @@ This project aims at developing a novel model to learn handwriting style. Some r
 ## Designed for Limited Data
 - [DeLiGAN](https://arxiv.org/abs/1706.02071)
 - [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/abs/1605.06065)
+- [cGAN-based Manga Colorization Using a Single Training Image](https://arxiv.org/abs/1706.06918)
+- [Easy generation of personal chinese handwritten fonts](http://ieeexplore.ieee.org/document/6011892/)
+-------------------------------------------------------
+Why those guys in premilab are not willing to use Github? Damn
