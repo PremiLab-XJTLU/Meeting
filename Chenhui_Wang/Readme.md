@@ -1,5 +1,5 @@
 # Large-scale Handwriting Generation via Generative Adversarial Network
-This project aims at developing a novel model to learn handwriting style. Some related papers could be viewed from here:
+This project aims at developing a novel model to learn handwriting style, and it is FYP of @LinkWoong. Grab some papers to learn:
 
 ## Chinese Characters Related
 - [Point-Set Registration: Coherent Point Drift](https://arxiv.org/abs/0905.2635)
